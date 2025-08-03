@@ -1,0 +1,2 @@
+# Cyberbullying-Detection-Using-NLP-and-Machine-Learning
+Leveraging NLP and ML, this project detects harmful content. With text preprocessing, TF-IDF feature extraction, and classification via Logistic Regression, Naive Bayes, and SVM, we built an efficient bullying detection system. The goal: help platforms maintain safe digital spaces by flagging abusive language for healthier online interactions.
